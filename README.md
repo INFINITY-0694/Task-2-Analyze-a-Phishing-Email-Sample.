@@ -1,4 +1,4 @@
-# Task-2-Analyze-a-Phishing-Email-Sample.
+# Task-2-Analyze-a-Phishing-Email-Sample
 : Identify phishing characteristics in a suspicious email sample
 
 this is phishing email by someone with the name of Godaddy with fake subject of urgent verification for domain to access without any disturbunce.
